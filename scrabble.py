@@ -1,4 +1,4 @@
-'''Cada letra de uma palavra valem um ponto diferente'''
+'''Cada letra de uma palavra vale um ponto diferente'''
 print('Digite duas palavras para saber qual das palavras vale mais.')
 from multiprocessing.sharedctypes import Value
 palavra1 = str(input('Dgite a palavra 1: ')).strip().upper()
